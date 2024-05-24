@@ -1,0 +1,10 @@
+path: 'C:\Users\AYESHA\Desktop\MultiLabelDetection\data'
+train: images/train
+val: images/val
+
+# nc: 3
+
+names:
+  0: pothole
+  1: waterlogging
+  2: cracks

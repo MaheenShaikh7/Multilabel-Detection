@@ -1,0 +1,15 @@
+description: Ultralytics YOLOv8n model trained on /content/gdrive/My Drive/MultiLabelDetection/config.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-02-22T15:09:25.382869'
+version: 8.1.17
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: pothole
+  1: waterlogging
+  2: cracks
